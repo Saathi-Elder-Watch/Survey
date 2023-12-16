@@ -99,7 +99,7 @@ export default function Survey() {
                     navigate('/response')
                 })
                 .catch((error) => {
-                    console.log(error);
+                    alert("Your response was not submitted! Please try again.");
                 });
         }
     }
