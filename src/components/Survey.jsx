@@ -106,7 +106,7 @@ export default function Survey() {
 
     return (
         <div className="survey-container container-fluid">
-            <h1 className="survey-heading">Survey: At-Home Healthcare for the Elderly: Customer Expectations</h1>
+            <h1 className="survey-heading">Survey: At-Home Healthcare for the Elderly</h1>
             <p className="survey-description">
                 Dear Participant,<br />
                 Thank you for taking the time to participate in our At-Home Healthcare for the Elderly: Customer Expectations Survey. Your feedback is invaluable in helping us provide the best possible care for your loved ones. Please answer the following questions honestly and to the best of your ability. Your responses will assist us in understanding your expectations and preferences for at-home healthcare services.
