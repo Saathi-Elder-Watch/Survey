@@ -157,6 +157,9 @@ export default function Survey() {
                             )
                         }
                     }
+                    return(
+                        <></>
+                    );
                 })}
                 <div id="sub">
                     <button type="submit">Submit</button>
